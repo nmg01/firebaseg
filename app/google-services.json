@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "547413783890",
+    "project_id": "perfilesapp-238d1",
+    "storage_bucket": "perfilesapp-238d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547413783890:android:e1b4b0a2b2f44ec18d368b",
+        "android_client_info": {
+          "package_name": "com.company.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547413783890-5k3qacpceje65tm0r1o1psbq8bmironk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuNae_WC6R4DYxPppmQxQVXGdTMNZzusQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547413783890-5k3qacpceje65tm0r1o1psbq8bmironk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547413783890:android:109af3ea61ec46b68d368b",
+        "android_client_info": {
+          "package_name": "com.example.allreceips20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547413783890-5k3qacpceje65tm0r1o1psbq8bmironk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuNae_WC6R4DYxPppmQxQVXGdTMNZzusQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547413783890-5k3qacpceje65tm0r1o1psbq8bmironk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
